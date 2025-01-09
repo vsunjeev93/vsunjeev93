@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is my space make and break (mostly break) all things optimization and control. Currently exploring reinforcement learning methods to solve optimization problems. 
+This is my space make and break (mostly break) all things optimization and control. Currently exploring reinforcement learning methods to solve combinatorial optimization problems. 
